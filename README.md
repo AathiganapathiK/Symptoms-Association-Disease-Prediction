@@ -1,4 +1,4 @@
-# 🧠 AI Disease Prediction Dashboard
+# 🧠 Disease Prediction Dashboard
 
 An intelligent healthcare web application that predicts diseases based on user-input symptoms using Machine Learning and Data Mining techniques. The system provides top disease predictions, explains symptom relationships, and suggests nearby specialist doctors.
 
@@ -6,7 +6,7 @@ An intelligent healthcare web application that predicts diseases based on user-i
 
 ## 📌 Project Overview
 
-The **AI Disease Prediction Dashboard** is designed to assist users in preliminary diagnosis by analyzing symptoms and predicting possible diseases.  
+The **Disease Prediction Dashboard** is designed to assist users in preliminary diagnosis by analyzing symptoms and predicting possible diseases.  
 
 It combines:
 - **Machine Learning (Random Forest & Naive Bayes)**
